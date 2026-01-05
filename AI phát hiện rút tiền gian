@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Thực Chiến - Hữu Điền</title>
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; background: #f8f9fb; color: #222; margin: 2em; }
+    h1 { color: #0078D7; }
+    .card { background: #fff; padding: 1.5em; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); margin-bottom: 1.5em; }
+    code { background: #eee; padding: 0.2em 0.4em; border-radius: 4px; }
+    img { max-width: 100%; border-radius: 8px; margin-top: 1em; }
+  </style>
+</head>
+<body>
+  <h1>🎓 Hữu Điền - AI Thực Chiến</h1>
+  <p><b>Bài 3:</b> Phát hiện chia nhỏ giao dịch rút tiền</p>
+
+  <div class="card">
+    <h3>📊 Kết quả mô phỏng:</h3>
+    <pre>
+A - Rút tiền 5 lần, TB 92.0 triệu → nghi ngờ chia nhỏ rút tiền
+    </pre>
+    <img src="ai_baitap3.png" alt="Kết quả Python thực hành">
+  </div>
+
+  <div class="card">
+    <h3>💡 Nhận xét:</h3>
+    <ul>
+      <li>Phát hiện đúng hành vi chia nhỏ giao dịch.</li>
+      <li>Tư duy nghiệp vụ tốt, logic lọc chuẩn.</li>
+      <li>Đề xuất kiểm tra giao dịch tương tự trong cùng chuỗi ngày.</li>
+    </ul>
+    <p>✅ Điểm: 250/250 – Xếp loại Xuất sắc – Cấp độ 6.5 (Thực chiến nghiệp vụ AI)</p>
+  </div>
+
+  <footer style="margin-top:2em; font-size:0.9em; color:#777;">
+    © 2026 Hc-AI | Trainer.AI xác nhận thực hành thành công.
+  </footer>
+</body>
+</html>
